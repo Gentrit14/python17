@@ -66,4 +66,3 @@ df = pd.DataFrame({
     'City': ["New York", "Santa Blanca" , "Rio De Janiro"]
 })
 
-st.write(df)
